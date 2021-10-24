@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/build.proj": {}
+  },
+  "projects": {
+    "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/build.proj",
+        "projectName": "build",
+        "projectPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/build.proj",
+        "packagesPath": "/Users/frammkormac2020/.nuget/packages/",
+        "outputPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/frammkormac2020/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
