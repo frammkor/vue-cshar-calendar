@@ -97,3 +97,17 @@
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/obj/Debug/net5.0/ref/Events.UnitTests.dll
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/obj/Debug/net5.0/Events.UnitTests.pdb
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/obj/Debug/net5.0/Events.UnitTests.genruntimeconfig.cache
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/CoverletSourceRootsMapping
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Events.Api.deps.json
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Events.Api.runtimeconfig.json
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Events.Api.runtimeconfig.dev.json
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/appsettings.Development.json
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/appsettings.json
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Castle.Core.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Moq.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Events.Api.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Events.Api.pdb

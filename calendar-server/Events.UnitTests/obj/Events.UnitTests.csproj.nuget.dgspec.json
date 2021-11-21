@@ -4,14 +4,14 @@
     "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/Events.UnitTests.csproj": {}
   },
   "projects": {
-    "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/Events.UnitTests.csproj": {
+    "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/Events.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/Events.UnitTests.csproj",
-        "projectName": "Events.UnitTests",
-        "projectPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/Events.UnitTests.csproj",
+        "projectUniqueName": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/Events.Api.csproj",
+        "projectName": "Events.Api",
+        "projectPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/Events.Api.csproj",
         "packagesPath": "/Users/frammkormac2020/.nuget/packages/",
-        "outputPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/obj/",
+        "outputPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/frammkormac2020/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,75 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/Events.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/Events.UnitTests.csproj",
+        "projectName": "Events.UnitTests",
+        "projectPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/Events.UnitTests.csproj",
+        "packagesPath": "/Users/frammkormac2020/.nuget/packages/",
+        "outputPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/frammkormac2020/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/Events.Api.csproj": {
+                "projectPath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/Events.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.9.4, )"
@@ -47,6 +116,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.0.2, )"
+            },
+            "moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
             },
             "xunit": {
               "target": "Package",

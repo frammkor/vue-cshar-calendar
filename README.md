@@ -4,7 +4,7 @@
 
 - 1. a class definition: There will be a base class Event
 - 2. a second class definition: There will be a class Reminder that inherits from the Event class
-- 3. a third class definition: There will be a class third type of event that inherits from the Event class
+- 3. a third class definition: There is class EventDto to ensure a Contract between the client and the server
 - 4. a struct definition: A struct might be used to convert the currency price of the event to/from dollars
 - 5. an enumerated type: There will be an Enum that will represent the different types of events that exist
 - 6. inheritance: There will be types of events that inherits from the base class Event
@@ -14,8 +14,8 @@
 - 10. definition of your own generic datatype: I am not yet sure how this can fit my project, but I will find a implementation for it.
 - 11. properties: Events will have many properties to init and read
 - 12. a static member function: There might be a static member function that counts how many events where created
-- 13. an interface: There will be a interface that show what can be done with an event
-- 14. a second interface: There might be a user type/class that uses an interface.
+- 13. an interface: There will be a interface that show what can be done with an event.
+- 14. a second interface: There are also interfaces for the Event Repositories so to let the EventsController accept different types of IEventRepositories.
 - 15. use of at least two of the built-in generic collection types: List and Hash Tables will be used.
 
 ## Extra Credits
