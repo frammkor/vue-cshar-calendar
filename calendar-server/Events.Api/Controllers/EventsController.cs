@@ -20,25 +20,11 @@ namespace calendar_server.Controllers
             this.repository = repository;
         }
 
-        // GET /events
-        [HttpGet]
-        public IEnumerable<Event> GetEvents()
-        // public IEnumerable<EventDto> GetEvents()
+        public IEnumerable<EventDto> GetEvents()
         {
-
-            // var events = repository.GetEvents().Select(event => new EventDto {
-            //     eventID = Event.eventID,
-            //     name = Event.name,
-            //     eventType = Event.eventType,
-            //     address = Event.address,
-            //     startTime = Event.startTime,
-            //     endTime = Event.endTime,
-            //     details = Event.details,
-            // });
-            var events = repository.GetEvents();
-
-            return events;
+            return repository.GetEvents().Select(e => e.AsDto());
         }
+        
 
         // GET /events/id
         [HttpGet("{id}")]

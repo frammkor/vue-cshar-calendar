@@ -2,6 +2,7 @@ using System;
 
 namespace calendar_server.Dtos
 {
+    // i mean like what is this? how AM I SUPPOSED TO UNDERSATND
     public record EventDto
     {
         public Guid eventID { get; init; }
