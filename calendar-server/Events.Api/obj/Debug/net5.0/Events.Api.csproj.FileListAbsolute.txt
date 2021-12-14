@@ -26,3 +26,5 @@
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/obj/Debug/net5.0/ref/Events.Api.dll
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/obj/Debug/net5.0/Events.Api.pdb
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/obj/Debug/net5.0/Events.Api.genruntimeconfig.cache
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/bin/Debug/net5.0/Repositories/EventsRecord.json
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/bin/Debug/net5.0/Newtonsoft.Json.dll

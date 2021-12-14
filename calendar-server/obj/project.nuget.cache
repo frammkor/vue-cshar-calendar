@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JwKjoyJhpICzUiDMAMkmPWgs2Oll81WbUgYyLO/JDAwvHJ6RCtDJ9GhcDGHc4X5ULtR5ckWqmFTSmysT+JTdlw==",
+  "dgSpecHash": "HsLBIIdBjCUXf1wsiyXFfT2RxrrV3p5WRHw04ntBhU7fScqKfj2yZS0wD01hIvd4DXIYUP62VKBij1R9SjllvA==",
   "success": true,
   "projectFilePath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/build.proj",
   "expectedPackageFiles": [
     "/Users/frammkormac2020/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
-    "/Users/frammkormac2020/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.0/microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512"
+    "/Users/frammkormac2020/.nuget/packages/microsoft.netframework.referenceassemblies.net45/1.0.0/microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512",
+    "/Users/frammkormac2020/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

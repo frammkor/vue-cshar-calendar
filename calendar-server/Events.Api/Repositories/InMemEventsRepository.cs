@@ -5,8 +5,10 @@ using System;
 
 namespace calendar_server.Repositories
 {
+    // REQUIREMENT 1
     public class InMemEventsRepository : IEventsRepository
     {
+        // REQUIREMENT 15 A
         private readonly List<Event> events = new()
         {
             new Event
@@ -26,6 +28,7 @@ namespace calendar_server.Repositories
             }
         };
 
+        // REQUIREMENT 15 B
         public IEnumerable<Event> GetEvents()
         {
             return events;

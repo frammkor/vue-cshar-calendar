@@ -111,3 +111,4 @@
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Events.Api.dll
 /Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Events.Api.pdb
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.UnitTests/bin/Debug/net5.0/Repositories/EventsRecord.json

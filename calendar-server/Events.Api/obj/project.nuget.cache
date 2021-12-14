@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "V2SPM1feZZKCoxMwVFbzCXWrdUfdMVNr9JedqA/d47R3Ql64sz0/q1BFViyitoh2NBTrqJY5oih5NcfsWgWlqQ==",
+  "dgSpecHash": "u4YEjpyUqfhT9FryDaA8q5xgF2KzuGtrL+9D9qVmdELzb35ssYVpVM3JOK6HgJK4BwkmTDJdC8D8ynsl3YbUyQ==",
   "success": true,
   "projectFilePath": "/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1410 - OOP/Final Project - The Calendar/calendar-server/Events.Api/Events.Api.csproj",
   "expectedPackageFiles": [
     "/Users/frammkormac2020/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/frammkormac2020/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/frammkormac2020/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/frammkormac2020/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/Users/frammkormac2020/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/Users/frammkormac2020/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

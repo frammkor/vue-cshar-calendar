@@ -18,5 +18,17 @@ namespace Events.UnitTests
 
             // Assert: verify the expected bahaviour
         }
+
+        [Fact]
+        public void GetEvents_WithUnexistingEvent_ReturnNotFound()
+        {
+            // Arrange: set up the test. Mocks, variables, inputs
+
+
+
+            // Act: perform the action to test
+
+            // Assert: verify the expected bahaviour
+        }
     }
 }
